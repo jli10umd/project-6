@@ -1,1 +1,2 @@
 # project-6
+This is a .csv file with results from a survey conducted focused on feminism. It asked respondents about the extent to which their beliefs aligned with various approaches to feminism (difference-denying, difference-removing, and difference-honoring), with 1 being strongly disagree and 10 being strongly agree, along with some demographic information. The 10 collected responses are compiled into rows in this dataset.
